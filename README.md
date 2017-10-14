@@ -1,12 +1,6 @@
 # JDollar2.0-Part2
 ===================
 
-JDOLLAR2.0-Part2   is the combination of CDollar,GDollar,JSTAR,JAVA,C/C++ OOPS,and Advanced OOPS. 
-
-JDOLLAR2.0 is designed to be used by C/C++,C#,JAVA/j2ee ,CDollar Professionals, GDollar Professionals only.
-
-and  it  is  invented  by  wilmix  jemin  j  @  2017  by  JDollar(JWEB).
-
 
 =============================================================
 
